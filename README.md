@@ -1,21 +1,40 @@
 # my-keeb ⌨️
 
-Custom %60 Mechanical Keyboard Project for Hack Club.
+## What am I doing?
 
----
+I am designing and building my own custom 60% ANSI mechanical keyboard. I started by creating the key layout and generating a DXF switch plate that can later be manufactured using laser cutting.
 
-## Devlog / Project Journal
+## Why am I doing it?
 
-### Day 1 - August 1, 2026
-* **Time Spent:** 2 Hours (11:00 AM - 1:00 PM)
-* **Tasks Completed:**
-  * Created a custom %60 ANSI layout using Keyboard Layout Editor.
-  * Generated the CAD plate layout (including switch cutouts and stabilizer mounts) using Swillbuilder.
-  * Exported and uploaded the `.dxf` CAD file to the repository.
-  * Configured the QMK/VIA firmware keymap architecture with a secondary Fn-layer (`keymap.json`) for directional and function keys.
-* **Screenshots / Visuals:**
-  <img width="1125" height="394" alt="image" src="https://github.com/user-attachments/assets/0039b50c-bbe9-4cfb-a40c-04ed76259dc9" />
+I chose this project because I am interested in engineering, electronics, and product design. A mechanical keyboard combines all of these areas in one project.
 
-* **Notes & Learnings:**
-  * Selected the standard %60 ANSI layout for a compact footprint.
-  * Designed layer 1 (Fn key activated) to map WASD / Arrow key functionalities and F-keys without needing a dedicated cluster.
+I want to understand how a device that I use every day is designed and built. Instead of only assembling ready-made parts, I want to design important parts of the keyboard myself.
+
+## What do I want to learn?
+
+I want to learn the full process of building a keyboard, including layout design, CAD modelling, PCB design, electronic components, soldering, firmware development, testing, and documentation.
+
+I also want to improve my problem-solving skills by identifying design mistakes, testing different solutions, and documenting how I solved each problem.
+
+Day 1(01.08.2026)
+* **(11.00 AM-12.00 PM):**Layout Design & CAD Plate Generation (1 Hour)
+  
+* **Designed a custom 60% ANSI layout using Keyboard Layout Editor.
+ Generated the switch plate CAD layout (including switch cutouts and stabilizer mounting points) using Swillbuilder.
+ Exported and uploaded the `.dxf` CAD file directly to the repository.
+
+* **Switch Plate:**
+  <img width="1132" height="417" alt="image" src="https://github.com/user-attachments/assets/3b36f850-f698-431a-9000-2b295dbbc62d" />
+* **note:**A screenshot of the switch plate CAD file in .dxf format, generated via Swillbuilder for laser cutting.
+  
+## What I've Learned
+Designing a compact 60% keyboard requires balancing usability and size. I also learned how stabilizer placement affects larger keys and why accurate CAD files are important for laser-cut plates.
+
+ ## Tools Used
+- Keyboard Layout Editor
+- SwillKB Builder
+- GitHub
+  
+## Files Created
+- keyboard-layout.json
+- switch-plate.dxf
