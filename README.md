@@ -14,19 +14,17 @@ I want to learn the full process of building a keyboard, including layout design
 I also want to improve my problem-solving skills by identifying design mistakes, testing different solutions, and documenting how I solved each problem.
 
 ## Day 1 (01.08.2026)
-* **(11.00 AM - 12.00 PM):** Layout Design & CAD Plate Generation (1 Hour)
+* **(11.00 AM - 12.00 PM):** Layout Design & Switch Plate Preview (1 Hour)
   * Designed a custom 65% ANSI layout using Keyboard Layout Editor.
-  * Generated the switch plate CAD layout (including switch cutouts and stabilizer mounting points) using SwillKB Builder.
-
+  * Generated the switch plate layout (including switch cutouts and stabilizer mounting points) using SwillKB Builder.
 
 * **Switch Plate:**
-<img width="1247" height="421" alt="image" src="https://github.com/user-attachments/assets/ae8c88ba-6736-4bd7-8bcf-adc4a87a28c3" />
-
+  <img width="1132" height="417" alt="Switch Plate Preview" src="image_fc4fc4.png" />
 
 * **Note:** A layout preview screenshot of the updated 65% switch plate generated via SwillKB Builder.
 
 ## What I've Learned
-Designing a compact 65% keyboard requires balancing usability and size while accounting for dedicated arrow keys and side modifiers. I also learned how stabilizer placement affects larger keys and why accurate CAD files are important for laser-cut plates.
+Designing a compact 65% keyboard requires balancing usability and size while accounting for dedicated arrow keys and side modifiers. I also learned how stabilizer placement affects larger keys and how plate cutouts structure the board layout.
 
 ## Tools Used
 - Keyboard Layout Editor
@@ -36,5 +34,3 @@ Designing a compact 65% keyboard requires balancing usability and size while acc
 ## Files Created
 - `keymap.json`
 - `README.md`
-- `keyboard-layout.json`
-- `switch-plate.dxf`
