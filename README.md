@@ -20,7 +20,8 @@ I also want to improve my problem-solving skills by identifying design mistakes,
   * Exported and uploaded the updated `.dxf` CAD file directly to the repository.
 
 * **Switch Plate:**
-  <img width="1132" height="417" alt="Switch Plate DXF" src="image_fc4fc4.png" />
+<img width="1247" height="421" alt="image" src="https://github.com/user-attachments/assets/ae8c88ba-6736-4bd7-8bcf-adc4a87a28c3" />
+
 
 * **Note:** A screenshot and vector data preview of the updated 65% switch plate CAD file in `.dxf` format, generated via SwillKB Builder for laser cutting.
 
