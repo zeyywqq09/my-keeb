@@ -34,5 +34,7 @@ Designing a compact 65% keyboard requires balancing usability and size while acc
 - GitHub
 
 ## Files Created
+- `keymap.json`
+- `README.md`
 - `keyboard-layout.json`
 - `switch-plate.dxf`
