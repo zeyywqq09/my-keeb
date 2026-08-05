@@ -19,7 +19,7 @@ I also want to improve my problem-solving skills by identifying design mistakes,
   * Generated the switch plate layout (including switch cutouts and stabilizer mounting points) using SwillKB Builder.
 
 * **Switch Plate:**
-  <img width="1132" height="417" alt="Switch Plate Preview" src="image_fc4fc4.png" />
+  <img width="1226" height="392" alt="image" src="https://github.com/user-attachments/assets/deae869e-43ae-43f4-9ef8-4f5904144a9f" />
 
 * **Note:** A layout preview screenshot of the updated 65% switch plate generated via SwillKB Builder.
 
