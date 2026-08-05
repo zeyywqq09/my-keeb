@@ -1,7 +1,7 @@
 # my-keeb ⌨️
 
 ## What am I doing?
-I am designing and building my own custom 65% ANSI mechanical keyboard. I started by creating the key layout and generating a DXF switch plate that can later be manufactured using laser cutting.
+I am designing and building my own custom 65% ANSI mechanical keyboard. I started by creating the key layout and designing a switch plate for laser cutting.
 
 ## Why am I doing it?
 I chose this project because I am interested in engineering, electronics, and product design. A mechanical keyboard combines all of these areas in one project.
