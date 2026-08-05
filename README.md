@@ -17,13 +17,13 @@ I also want to improve my problem-solving skills by identifying design mistakes,
 * **(11.00 AM - 12.00 PM):** Layout Design & CAD Plate Generation (1 Hour)
   * Designed a custom 65% ANSI layout using Keyboard Layout Editor.
   * Generated the switch plate CAD layout (including switch cutouts and stabilizer mounting points) using SwillKB Builder.
-  * Exported and uploaded the updated `.dxf` CAD file directly to the repository.
+
 
 * **Switch Plate:**
 <img width="1247" height="421" alt="image" src="https://github.com/user-attachments/assets/ae8c88ba-6736-4bd7-8bcf-adc4a87a28c3" />
 
 
-* **Note:** A screenshot and vector data preview of the updated 65% switch plate CAD file in `.dxf` format, generated via SwillKB Builder for laser cutting.
+* **Note:** A layout preview screenshot of the updated 65% switch plate generated via SwillKB Builder.
 
 ## What I've Learned
 Designing a compact 65% keyboard requires balancing usability and size while accounting for dedicated arrow keys and side modifiers. I also learned how stabilizer placement affects larger keys and why accurate CAD files are important for laser-cut plates.
