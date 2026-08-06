@@ -10,7 +10,6 @@ Welcome to my diary!
 
 * **Note:** A layout preview screenshot of the updated 65% switch plate generated via SwillKB Builder.
 
-
 ## Day 2 (06.08.2026) (2 hour 15 min)
 Hi! It actually looked a bit intimidating today since it's my first keyboard, but—as the saying goes (I don't know who said it, though :D)the important thing is to get started!
 
