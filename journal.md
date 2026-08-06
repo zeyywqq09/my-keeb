@@ -22,3 +22,8 @@ Update (12:44 PM): This is starting to get more tiring, guys :(
 
 Hey, I'm back—the schematic drawing and electrical checks are all done!(15.35PM)
 <img width="727" height="258" alt="image" src="https://github.com/user-attachments/assets/c2a7e244-c4e3-400b-ab3f-c8bc67177059" />
+
+## Update (15.55PM)
+*Cherry MX uyumlu switch footprint'lerini seçtim.
+*Tüm mekanik switchler için SW_Cherry_MX_1.00u_PCB footprint'ini atadım.
+*PCB tasarımı için fiziksel switch yerleşimini hazırlamaya başladım.
