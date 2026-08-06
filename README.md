@@ -31,6 +31,3 @@ Designing a compact 65% keyboard requires balancing usability and size while acc
 - SwillKB Builder
 - GitHub
 
-## Files Created
-- `keymap.json`
-- `README.md`
