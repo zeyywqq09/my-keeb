@@ -10,7 +10,7 @@ Welcome to my diary!
 
 * **Note:** A layout preview screenshot of the updated 65% switch plate generated via SwillKB Builder.
 
-## Day 2 (06.08.2026) (2 hour 15 min)
+## Day 2 (06.08.2026) (2 hour 15 min + 4 hour)
 Hi! It actually looked a bit intimidating today since it's my first keyboard, but—as the saying goes (I don't know who said it, though :D)the important thing is to get started!
 
 * **(10.00AM-12.15PM)**:I started drawing the electronic circuit diagram of the keyboard.
@@ -31,7 +31,7 @@ I began preparing the physical switch layout for the PCB design.
 ## (16.45PM)
 Ohh, I just ran KiCad's ERC and a damn problem popped up, but no matter how long it took, I got it sorted out.
 
-## Same day (18.00PM-21.00PM)
+## Same day (17.00PM-21.00PM)
 
 I finally moved on to the PCB part.
 * Instead of soldering switches, I chose Kailh Hotswap socket support—which allows for easy replacement—and 5-pin MX-compatible footprints (SW_Hotswap_Kailh_MX_1.00u).
@@ -41,4 +41,4 @@ I finally moved on to the PCB part.
 * I assigned SMD footprints to the diodes and 2.2mm M2 mounting holes to the screw holes.
 * I assigned the appropriate plate-mount footprints from the library to the stabilizer symbols in the schematic.
   <img width="544" height="397" alt="image" src="https://github.com/user-attachments/assets/2eef4764-21bf-4b48-822a-ed957ae7b1f2" />
-
+  Note:I spent most of my time trial and error and error correction :(
