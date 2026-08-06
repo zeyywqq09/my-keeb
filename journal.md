@@ -20,3 +20,6 @@ Hi! It actually looked a bit intimidating today since it's my first keyboard, bu
 * <img width="708" height="319" alt="image" src="https://github.com/user-attachments/assets/d59afb88-04e6-499c-9a23-6f3db5b76b41" />
 
 Update (12:44 PM): This is starting to get more tiring, guys :(
+
+Hey, I'm back—the schematic drawing and electrical checks are all done!
+<img width="727" height="258" alt="image" src="https://github.com/user-attachments/assets/c2a7e244-c4e3-400b-ab3f-c8bc67177059" />
