@@ -25,5 +25,5 @@ Hey, I'm back—the schematic drawing and electrical checks are all done!(15.35P
 
 ## Update (15.55PM)
 *Cherry MX uyumlu switch footprint'lerini seçtim.
-*Tüm mekanik switchler için SW_Cherry_MX_1.00u_PCB footprint'ini atadım.
-*PCB tasarımı için fiziksel switch yerleşimini hazırlamaya başladım.
+Tüm mekanik switchler için SW_Cherry_MX_1.00u_PCB footprint'ini atadım.
+PCB tasarımı için fiziksel switch yerleşimini hazırlamaya başladım.
