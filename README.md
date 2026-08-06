@@ -31,3 +31,9 @@ Designing a compact 65% keyboard requires balancing usability and size while acc
 - SwillKB Builder
 - GitHub
 
+## Day 2 (06.08.2026)
+* **(10.00AM-11.00AM)**:I started drawing the electronic circuit diagram of the keyboard.
+* First of all, I employed a matrix (row and column) approach. Connecting every single button to the controller individually would require separate pins or cables for each one; however, with the matrix method, we can arrange the buttons in a grid-like pattern of rows and columns. This allowed me to cut the number of required pins in half.
+* After that, I added the diodes. Diodes prevent electrical leakage, ensuring that pressing multiple keys simultaneously doesn't result in an unpressed key registering as pressed. This allows my keyboard to register every single key press flawlessly.
+* <img width="708" height="319" alt="image" src="https://github.com/user-attachments/assets/d59afb88-04e6-499c-9a23-6f3db5b76b41" />
+
