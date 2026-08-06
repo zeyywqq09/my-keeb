@@ -27,3 +27,5 @@ Hey, I'm back—the schematic drawing and electrical checks are all done!(15.35P
 I selected the Cherry MX-compatible switch footprints.
 I assigned the SW_Cherry_MX_1.00u_PCB footprint to all mechanical switches.
 I began preparing the physical switch layout for the PCB design.
+* <img width="530" height="533" alt="image" src="https://github.com/user-attachments/assets/81cdfeaa-a85a-4a15-9f34-30829b273fbb" />
+
