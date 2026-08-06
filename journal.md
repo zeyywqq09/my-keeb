@@ -31,12 +31,14 @@ I began preparing the physical switch layout for the PCB design.
 ## (16.45PM)
 Ohh, I just ran KiCad's ERC and a damn problem popped up, but no matter how long it took, I got it sorted out.
 
-##Same day (18.00PM-21.00PM)
-<img width="552" height="405" alt="image" src="https://github.com/user-attachments/assets/623fce11-39f3-4b7e-9e1c-b9e4d60ea8a7" />
+## Same day (18.00PM-21.00PM)
+
 I finally moved on to the PCB part.
 * Instead of soldering switches, I chose Kailh Hotswap socket support—which allows for easy replacement—and 5-pin MX-compatible footprints (SW_Hotswap_Kailh_MX_1.00u).
 * I integrated the custom keyboard library (PCM_marbastlib-mx), which contains mechanical keyboard components and footprints, into KiCad.
 * I have placed 6 M2 screw holes (H1–H6) on the schematic for mounting to the case.
 * To balance the large keys, I added a total of five stabilizer symbols—one 6.25u (Spacebar) and four 2u (Shift, Enter, Backspace)—and assigned reference numbers to them.
+
+  <img width="552" height="405" alt="image" src="https://github.com/user-attachments/assets/623fce11-39f3-4b7e-9e1c-b9e4d60ea8a7" />
 * I assigned SMD footprints to the diodes and 2.2mm M2 mounting holes to the screw holes.
 * I assigned the appropriate plate-mount footprints from the library to the stabilizer symbols in the schematic.
